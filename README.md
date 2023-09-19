@@ -16,3 +16,10 @@ SAMPLE INPUT-
 SAMPLE OUTPUT-
 {3,2,1}
 
+Question 3- Check palindrome string using recursion
+
+SAMPLE INPUT-
+{1,2,1}
+
+SAMPLE OUTPUT-
+true
