@@ -23,3 +23,12 @@ SAMPLE INPUT-
 
 SAMPLE OUTPUT-
 true
+
+Question 4- Finf the Nth Fibonacci
+
+SAMPLE INPUT-
+5
+
+SAMPLE OUTPUT-
+5
+
