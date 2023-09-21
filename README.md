@@ -24,7 +24,7 @@ SAMPLE INPUT-
 SAMPLE OUTPUT-
 true
 
-Question 4- Finf the Nth Fibonacci
+Question 4- Find the Nth Fibonacci
 
 SAMPLE INPUT-
 5
@@ -32,3 +32,16 @@ SAMPLE INPUT-
 SAMPLE OUTPUT-
 5
 
+Question 5- Print subsequences 
+
+SAMPLE INPUT - Given ArrayList [1,2,3]
+
+SAMPLE OUTPUT-
+[1, 2, 3]
+[1, 2]
+[1, 3]
+[1]
+[2, 3]
+[2]
+[3]
+[]
