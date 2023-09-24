@@ -45,3 +45,13 @@ SAMPLE OUTPUT-
 [2]
 [3]
 []
+
+Question 6- Print subsequences with given sum 
+
+SAMPLE INPUT-
+{1,2,1}
+2
+
+SAMPLE OUTPUT-
+[1,1]
+[2]
