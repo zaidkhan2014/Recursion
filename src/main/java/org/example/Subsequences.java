@@ -13,16 +13,16 @@ public class Subsequences {
         }
         answer.add(arr.get(index));
         printSubsequences(index+1,arr,answer);
-        answer.remove(arr.get(index));
+        answer.remove(answer.size()-1);
         printSubsequences(index+1,arr,answer);
 
     }
     public static void main(String[] args) {
         ArrayList<Integer> arr=new ArrayList<>();
         ArrayList<Integer> answer=new ArrayList<>();
-        arr.add(1);
-        arr.add(2);
         arr.add(3);
+        arr.add(2);
+        arr.add(1);
         printSubsequences(0,arr,answer);
     }
 }

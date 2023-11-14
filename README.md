@@ -55,3 +55,12 @@ SAMPLE INPUT-
 SAMPLE OUTPUT-
 [1,1]
 [2]
+
+Question 7- Print  only subsequence with given sum 
+
+SAMPLE INPUT-
+{1,2,1}
+2
+
+SAMPLE OUTPUT-
+[1,1]
